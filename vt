@@ -41,4 +41,4 @@ int oMovement = 2872           //public PlayerInput input
 int oClActiveItem = 2448 //public PlayerInput input
 int oItemList = 104 //public PlayerInput input
 int oContainerBelt = 88 //public PlayerInput input
-int oHeld = 160 //public PlayerInput input
+int oHeld = 128 //public PlayerInput input
