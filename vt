@@ -44,5 +44,5 @@ int oContainerBelt = 104        //public PlayerInput input
 int oHeld = 72                //public PlayerInput input
 int oCamera = 0xA2A6D50
 int oBasenetworkable = 171290832
-int oClientTeam = 2288
+int oClientTeam = 2880
 int oUserid = 2960
