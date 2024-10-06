@@ -47,3 +47,4 @@ int oBasenetworkable = 171290832
 int oClientTeam = 784
 int oUserid = 1376
 int ConsoleSystem = 212444648
+int ItemDefinition = 136
