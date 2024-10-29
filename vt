@@ -45,6 +45,6 @@ int oHeld = 104                //public PlayerInput input
 int oCamera = 213893880
 int oBasenetworkable = 213894640
 int oClientTeam = 784
-int oUserid = 1376
+int oUserid = 656
 int ConsoleSystem = 214009848
 int ItemDefinition = 40
