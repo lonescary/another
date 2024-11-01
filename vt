@@ -46,5 +46,5 @@ int oCamera = 213893880
 int oBasenetworkable = 213894640
 int oClientTeam = 784
 int oUserid = 656
-int ConsoleSystem = 214009848
+int ConsoleSystem = 0xCE5C9C8
 int ItemDefinition = 40
